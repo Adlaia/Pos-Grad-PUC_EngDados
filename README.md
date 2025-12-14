@@ -1,6 +1,11 @@
 # Pos-Grad-PUC_EngDados
 
-Projeto de MVP - Engenharia de Dados
+MVP: Engenharia de Dados
+Autora: Amanda de Laia da Fonseca
+Data: 14/12/2025
+Matrícula: 4052025001101
+Dataset: Drug Consumption (Quantified) - https://archive.ics.uci.edu/dataset/373/drug+consumption+quantified
+
 
 Descrição dos arquivos aqui presentes:
 
