@@ -28,7 +28,7 @@ Réplica exata do notebook completo, com prints de todas as células de código,
 Base de dados, previamente convertida de .data como foi baixada do site, utilizada no presente trabalho.
 
 ##
-# Abaixo, seguem prints do catálogo de dados em cada etapa (bronze, silver e gold). Preferi colocar aqui para não poluir tanto o PDF, porém lá tem prints do código para criação do catálogo inicial da bronze. As seguintes foram sendo copiadas dessa original:
+# Abaixo, seguem prints do catálogo de dados em cada etapa (bronze, silver e gold). Preferi colocar aqui para não poluir tanto o PDF, porém lá tem prints do código para criação do catálogo inicial da bronze. As seguintes foram sendo copiadas dessa original. Também coloquei as imagens na pasta "catalogos", caso ocorra algum problema no carregamento das imagens aqui no Read Me.
 
 ## Bronze
 
